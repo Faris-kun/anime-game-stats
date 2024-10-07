@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Oct 06, 2024 19:12 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Oct 07, 2024 07:39 +0700</u></h3>
 <br />
 <details align="center">
   <summary>:sleeping: Zenless Zone Zero Details</summary>
@@ -11,17 +11,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>6</td>
+        <td>7</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          2 x
+          3 x
           <img
-            src="https://act-webstatic.hoyoverse.com/event-static/2024/06/11/44b4b886ce242797a4d6e4b7d3c349b0_5514956065044058103.png"
+            src="https://act-webstatic.hoyoverse.com/event-static/2024/06/11/3b96568c4c9e878c4d2c1bcb1aad95f5_6098291568171604330.png"
             height="20"
           />
-          Official Investigator Logs
+          W-Engine Power Supplies
         </td>
       </tr>
     </table>
@@ -222,17 +222,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>6</td>
+        <td>7</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          2 x
+          1 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2023/03/28/5ec24224c0e731d65270c6f2310e84a4_657118753314638166.png"
+            src="https://upload-static.hoyoverse.com/event/2023/03/28/6b6ff68f20a7d6d647ca02a7fe5e7a6a_9057130556670479074.png"
             height="20"
           />
-          Adventure Log
+          Condensed Aether
         </td>
       </tr>
     </table>
@@ -1918,17 +1918,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>6</td>
+        <td>7</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          2 x
+          8000 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
+            src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
             height="20"
           />
-          Adventurer's Experience
+          Mora
         </td>
       </tr>
     </table>
@@ -1953,7 +1953,7 @@
       </tr>
       <tr>
         <td>Characters</td>
-        <td>50</td>
+        <td>51</td>
       </tr>
       <tr>
         <td>Spiral_Abyss</td>
@@ -1969,7 +1969,7 @@
       </tr>
       <tr>
         <td>Dendroculi</td>
-        <td>113</td>
+        <td>116</td>
       </tr>
       <tr>
         <td>Electroculi</td>
@@ -1985,15 +1985,15 @@
       </tr>
       <tr>
         <td>Common_Chests</td>
-        <td>1155</td>
+        <td>1159</td>
       </tr>
       <tr>
         <td>Exquisite_Chests</td>
-        <td>1065</td>
+        <td>1068</td>
       </tr>
       <tr>
         <td>Precious_Chests</td>
-        <td>304</td>
+        <td>305</td>
       </tr>
       <tr>
         <td>Luxurious_Chests</td>
@@ -2009,7 +2009,7 @@
       </tr>
       <tr>
         <td>Unlocked_Domains</td>
-        <td>46</td>
+        <td>47</td>
       </tr>
     </table>
   </div>
