@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Oct 12, 2024 19:12 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Oct 13, 2024 07:40 +0700</u></h3>
 <br />
 <details align="center">
   <summary>:sleeping: Zenless Zone Zero Details</summary>
@@ -11,17 +11,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>12</td>
+        <td>13</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          2 x
+          20 x
           <img
-            src="https://act-webstatic.hoyoverse.com/event-static/2024/06/11/2dc72dda579740117cc613a7c4b61072_8116301305434853429.png"
+            src="https://act-webstatic.hoyoverse.com/event-static/2024/06/11/d7da97e53408b8485a9f9f0fe339f853_2231547654644822801.png"
             height="20"
           />
-          Crystallized Plating Agents
+          Polychromes
         </td>
       </tr>
     </table>
@@ -222,17 +222,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>12</td>
+        <td>13</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          2 x
+          20 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2023/03/28/6b6ff68f20a7d6d647ca02a7fe5e7a6a_9057130556670479074.png"
+            src="https://upload-static.hoyoverse.com/event/2023/03/28/77cb5426637574ba524ac458fa963da0_366369025300461262.png"
             height="20"
           />
-          Condensed Aether
+          Stellar Jade
         </td>
       </tr>
     </table>
@@ -1918,17 +1918,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>12</td>
+        <td>13</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          3 x
+          2 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2021/07/30/7fa4c2853844b74ad571e01b686624a4_2044215887656003732.png"
+            src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
             height="20"
           />
-          Fried Radish Balls
+          Adventurer's Experience
         </td>
       </tr>
     </table>
@@ -1945,7 +1945,7 @@
     <table>
       <tr>
         <td>Achievements</td>
-        <td>578</td>
+        <td>579</td>
       </tr>
       <tr>
         <td>Days_Active</td>
@@ -1977,7 +1977,7 @@
       </tr>
       <tr>
         <td>Hydroculi</td>
-        <td>133</td>
+        <td>136</td>
       </tr>
       <tr>
         <td>Pyroculi</td>
@@ -1989,11 +1989,11 @@
       </tr>
       <tr>
         <td>Exquisite_Chests</td>
-        <td>1068</td>
+        <td>1075</td>
       </tr>
       <tr>
         <td>Precious_Chests</td>
-        <td>305</td>
+        <td>308</td>
       </tr>
       <tr>
         <td>Luxurious_Chests</td>
@@ -2238,7 +2238,7 @@
             <tr>
               <td>Explored</td>
               <td>
-                <img src="https://progress-bar.xyz/39/" width="80" />
+                <img src="https://progress-bar.xyz/40/" width="80" />
               </td>
             </tr>
             <tr>
