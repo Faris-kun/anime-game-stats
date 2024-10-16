@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Oct 16, 2024 07:38 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Oct 16, 2024 19:14 +0700</u></h3>
 <br />
 <details align="center">
   <summary>:sleeping: Zenless Zone Zero Details</summary>
@@ -99,7 +99,7 @@
                 <td>Faction</td>
                 <td>
                   <img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/nap/prod_gf_cn/item_icon_ua1dgb/b3353498896c2d3e00e63651357da0a7.png"
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/nap/prod_gf_cn/item_icon_uf71ib/6c95859c3e6cb5f77ec4286b52ada1e3.png"
                     height="18"
                   />
                 </td>
@@ -168,7 +168,7 @@
                 <td>Faction</td>
                 <td>
                   <img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/nap/prod_gf_cn/item_icon_ua1dgb/b3353498896c2d3e00e63651357da0a7.png"
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/nap/prod_gf_cn/item_icon_uf71ib/6c95859c3e6cb5f77ec4286b52ada1e3.png"
                     height="18"
                   />
                 </td>
@@ -2436,16 +2436,6 @@
         <td>most_played</td>
         <td>
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ue4a0g/f1d60812ba2ec0623af4aaa7c8e62f87.png"
-            ,
-            height="18"
-          />
-          Faruzan (9)<br /><img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ue4a0g/babed88a8fbd0ef3d8f8ffec4613c720.png"
-            ,
-            height="18"
-          />
-          Yelan (9)<br /><img
             src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ue4a0g/0d7dd0ba058fb290e0abdc35806ac24b.png"
             ,
             height="18"
@@ -2455,7 +2445,17 @@
             ,
             height="18"
           />
-          Xiao (9)<br />
+          Xiao (9)<br /><img
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ue4a0g/98462cdcbccadea9d319ee7d4c426ed1.png"
+            ,
+            height="18"
+          />
+          Bennett (9)<br /><img
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ue4a0g/f1d60812ba2ec0623af4aaa7c8e62f87.png"
+            ,
+            height="18"
+          />
+          Faruzan (9)<br />
         </td>
       </tr>
       <tr>
