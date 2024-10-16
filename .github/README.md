@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Oct 15, 2024 19:14 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Oct 16, 2024 07:38 +0700</u></h3>
 <br />
 <details align="center">
   <summary>:sleeping: Zenless Zone Zero Details</summary>
@@ -11,17 +11,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>15</td>
+        <td>16</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          3 x
+          1 x
           <img
-            src="https://act-webstatic.hoyoverse.com/event-static/2024/06/11/3b96568c4c9e878c4d2c1bcb1aad95f5_6098291568171604330.png"
+            src="https://act-webstatic.hoyoverse.com/event-static/2024/06/11/7cb065bb13a5fba94a26302b0db2080c_3875449856155324808.png"
             height="20"
           />
-          W-Engine Power Supplies
+          Bangboo Algorithm Modules
         </td>
       </tr>
     </table>
@@ -222,17 +222,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>15</td>
+        <td>16</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          1 x
+          3 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2023/03/28/cbd2cbb1526cd4fbaf55559461591ad4_5780325781834797904.png"
+            src="https://upload-static.hoyoverse.com/event/2023/03/28/5ec24224c0e731d65270c6f2310e84a4_657118753314638166.png"
             height="20"
           />
-          Energy Drink (sugar-free)
+          Adventure Log
         </td>
       </tr>
     </table>
@@ -1918,17 +1918,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>15</td>
+        <td>16</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
           5 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
+            src="https://upload-static.hoyoverse.com/event/2021/02/25/22542ef6122f5ad4ac1c3834d11cdfb4_8505332314511574414.png"
             height="20"
           />
-          Adventurer's Experience
+          Fine Enhancement Ore
         </td>
       </tr>
     </table>
@@ -1957,7 +1957,7 @@
       </tr>
       <tr>
         <td>Spiral_Abyss</td>
-        <td>11-3</td>
+        <td>-</td>
       </tr>
       <tr>
         <td>Anemoculi</td>
@@ -2414,11 +2414,11 @@
     <table>
       <tr>
         <td>Season</td>
-        <td>98</td>
+        <td>99</td>
       </tr>
       <tr>
         <td>Total Battles</td>
-        <td>10</td>
+        <td>12</td>
       </tr>
       <tr>
         <td>Total Wins</td>
@@ -2436,48 +2436,48 @@
         <td>most_played</td>
         <td>
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ue4a0g/3915a0fc1e5cd27400e93f32225a02db.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ue4a0g/f1d60812ba2ec0623af4aaa7c8e62f87.png"
             ,
             height="18"
           />
-          Xiao (9)<br /><img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ue4a0g/98462cdcbccadea9d319ee7d4c426ed1.png"
-            ,
-            height="18"
-          />
-          Bennett (9)<br /><img
+          Faruzan (9)<br /><img
             src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ue4a0g/babed88a8fbd0ef3d8f8ffec4613c720.png"
             ,
             height="18"
           />
           Yelan (9)<br /><img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ue4a0g/415bae170ca04def00056442336e1bb7.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ue4a0g/0d7dd0ba058fb290e0abdc35806ac24b.png"
             ,
             height="18"
           />
-          Nahida (9)<br />
+          Xianyun (9)<br /><img
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ue4a0g/3915a0fc1e5cd27400e93f32225a02db.png"
+            ,
+            height="18"
+          />
+          Xiao (9)<br />
         </td>
       </tr>
       <tr>
         <td>most_kills</td>
         <td>
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_avatar_side_icon_ue4a0g/0766b15b32b5c02bb87d329c37ff4e3c.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_avatar_side_icon_ue4a0g/81da67dfb18816b4a3750c270b989766.png"
             ,
             height="18"
           />
-          Xiao (49)<br />
+          Arlecchino (56)<br />
         </td>
       </tr>
       <tr>
         <td>strongest_strike</td>
         <td>
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_avatar_side_icon_ue4a0g/0766b15b32b5c02bb87d329c37ff4e3c.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_avatar_side_icon_ue4a0g/81da67dfb18816b4a3750c270b989766.png"
             ,
             height="18"
           />
-          Xiao (102537)<br />
+          Arlecchino (91380)<br />
         </td>
       </tr>
       <tr>
@@ -2488,18 +2488,18 @@
             ,
             height="18"
           />
-          Xiao (107641)<br />
+          Xiao (95997)<br />
         </td>
       </tr>
       <tr>
         <td>most_bursts_used</td>
         <td>
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_avatar_side_icon_ue4a0g/0766b15b32b5c02bb87d329c37ff4e3c.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_avatar_side_icon_ue4a0g/5ea8444f43920ba580a0a26f23877364.png"
             ,
             height="18"
           />
-          Xiao (22)<br />
+          Yelan (21)<br />
         </td>
       </tr>
       <tr>
@@ -2510,7 +2510,7 @@
             ,
             height="18"
           />
-          Xiao (99)<br />
+          Xiao (70)<br />
         </td>
       </tr>
     </table>
