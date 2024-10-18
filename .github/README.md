@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Oct 18, 2024 07:37 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Oct 18, 2024 19:14 +0700</u></h3>
 <br />
 <details align="center">
   <summary>:sleeping: Zenless Zone Zero Details</summary>
@@ -2436,6 +2436,16 @@
         <td>most_played</td>
         <td>
           <img
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ue4a0g/3915a0fc1e5cd27400e93f32225a02db.png"
+            ,
+            height="18"
+          />
+          Xiao (9)<br /><img
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ue4a0g/f1d60812ba2ec0623af4aaa7c8e62f87.png"
+            ,
+            height="18"
+          />
+          Faruzan (9)<br /><img
             src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ue4a0g/0d7dd0ba058fb290e0abdc35806ac24b.png"
             ,
             height="18"
@@ -2445,17 +2455,7 @@
             ,
             height="18"
           />
-          Bennett (9)<br /><img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ue4a0g/babed88a8fbd0ef3d8f8ffec4613c720.png"
-            ,
-            height="18"
-          />
-          Yelan (9)<br /><img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ue4a0g/98126333397d43a630a21ac4655078b8.png"
-            ,
-            height="18"
-          />
-          Arlecchino (9)<br />
+          Bennett (9)<br />
         </td>
       </tr>
       <tr>
