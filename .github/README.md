@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Oct 21, 2024 07:39 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Oct 21, 2024 19:15 +0700</u></h3>
 <br />
 <details align="center">
   <summary>:sleeping: Zenless Zone Zero Details</summary>
@@ -1985,11 +1985,11 @@
       </tr>
       <tr>
         <td>Common_Chests</td>
-        <td>1161</td>
+        <td>1162</td>
       </tr>
       <tr>
         <td>Exquisite_Chests</td>
-        <td>1096</td>
+        <td>1098</td>
       </tr>
       <tr>
         <td>Precious_Chests</td>
