@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Oct 21, 2024 19:15 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Oct 22, 2024 07:38 +0700</u></h3>
 <br />
 <details align="center">
   <summary>:sleeping: Zenless Zone Zero Details</summary>
@@ -11,17 +11,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>21</td>
+        <td>22</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
           2 x
           <img
-            src="https://act-webstatic.hoyoverse.com/event-static/2024/06/11/2dc72dda579740117cc613a7c4b61072_8116301305434853429.png"
+            src="https://act-webstatic.hoyoverse.com/event-static/2024/06/11/44b4b886ce242797a4d6e4b7d3c349b0_5514956065044058103.png"
             height="20"
           />
-          Crystallized Plating Agents
+          Official Investigator Logs
         </td>
       </tr>
     </table>
@@ -222,17 +222,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>21</td>
+        <td>22</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          3 x
+          2 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2023/03/28/5ec24224c0e731d65270c6f2310e84a4_657118753314638166.png"
+            src="https://upload-static.hoyoverse.com/event/2023/03/28/6b6ff68f20a7d6d647ca02a7fe5e7a6a_9057130556670479074.png"
             height="20"
           />
-          Adventure Log
+          Condensed Aether
         </td>
       </tr>
     </table>
@@ -1918,17 +1918,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>21</td>
+        <td>22</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          8000 x
+          5 x
           <img
-            src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
+            src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
             height="20"
           />
-          Mora
+          Adventurer's Experience
         </td>
       </tr>
     </table>
@@ -1945,11 +1945,11 @@
     <table>
       <tr>
         <td>Achievements</td>
-        <td>584</td>
+        <td>585</td>
       </tr>
       <tr>
         <td>Days_Active</td>
-        <td>526</td>
+        <td>527</td>
       </tr>
       <tr>
         <td>Characters</td>
@@ -2526,7 +2526,7 @@
           />
           Primogems earned
         </td>
-        <td>4566 (rate -62)</td>
+        <td>4606 (rate -62)</td>
       </tr>
       <tr>
         <td>
@@ -2536,14 +2536,14 @@
           />
           Mora earned
         </td>
-        <td>1415621 (rate -83)</td>
+        <td>1480021 (rate -83)</td>
       </tr>
       <tr>
         <td>Categories</td>
         <td>
-          Mail: 2850 (63%)<br />Events: 460 (11%)<br />Adventure: 496 (11%)<br />Daily
-          Activity: 310 (6%)<br />Quests: 50 (1%)<br />Spiral Abyss: 0 (0%)<br />Imaginarium
-          Theater: 0 (0%)<br />Other: 400 (8%)<br />
+          Mail: 2850 (62%)<br />Adventure: 496 (11%)<br />Events: 460 (10%)<br />Daily
+          Activity: 350 (7%)<br />Quests: 50 (1%)<br />Spiral Abyss: 0 (0%)<br />Imaginarium
+          Theater: 0 (0%)<br />Other: 400 (9%)<br />
         </td>
       </tr>
     </table>
