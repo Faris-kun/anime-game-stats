@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Oct 29, 2024 19:14 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Oct 30, 2024 07:38 +0700</u></h3>
 <br />
 <details align="center">
   <summary>:sleeping: Zenless Zone Zero Details</summary>
@@ -11,7 +11,7 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>29</td>
+        <td>30</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
@@ -222,7 +222,7 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>29</td>
+        <td>30</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
@@ -1918,7 +1918,7 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>29</td>
+        <td>30</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
@@ -2526,7 +2526,7 @@
           />
           Primogems earned
         </td>
-        <td>4782 (rate -60)</td>
+        <td>5390 (rate -56)</td>
       </tr>
       <tr>
         <td>
@@ -2536,14 +2536,14 @@
           />
           Mora earned
         </td>
-        <td>1804471 (rate -79)</td>
+        <td>1935060 (rate -77)</td>
       </tr>
       <tr>
         <td>Categories</td>
         <td>
-          Mail: 2850 (60%)<br />Adventure: 521 (11%)<br />Events: 460 (10%)<br />Daily
-          Activity: 470 (10%)<br />Quests: 80 (1%)<br />Spiral Abyss: 0 (0%)<br />Imaginarium
-          Theater: 0 (0%)<br />Other: 401 (8%)<br />
+          Mail: 2850 (53%)<br />Quests: 610 (12%)<br />Daily Activity: 530
+          (10%)<br />Adventure: 538 (10%)<br />Events: 460 (8%)<br />Spiral
+          Abyss: 0 (0%)<br />Imaginarium Theater: 0 (0%)<br />Other: 402 (7%)<br />
         </td>
       </tr>
     </table>
@@ -2826,7 +2826,7 @@
               </tr>
               <tr>
                 <td>Friendship</td>
-                <td>8</td>
+                <td>9</td>
               </tr>
               <tr>
                 <td>Constellation</td>
@@ -5076,6 +5076,103 @@
               <tr>
                 <td>Refinement</td>
                 <td>5</td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+      </table>
+    </details>
+    <details>
+      <summary><b>Kuki Shinobu</b></summary>
+      <br />
+      <table>
+        <tr>
+          <th><h3 align="center">Kuki Shinobu</h3></th>
+          <th><h3 align="center">Dull Blade</h3></th>
+        </tr>
+        <tr>
+          <td>
+            <p align="center">
+              <img
+                src="https://enka.network/ui/UI_AvatarIcon_Shinobu_Card.png"
+                heigt="250"
+              />
+            </p>
+          </td>
+          <td>
+            <p align="center">
+              <img
+                src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ue4a0g/cd92326fe97fcca5688286ce1c952982.png"
+                height="250"
+              />
+            </p>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <table>
+              <tr>
+                <td>Rarity</td>
+                <td>★★★★</td>
+              </tr>
+              <tr>
+                <td>Element</td>
+                <td>
+                  <img
+                    src="https://genshin.honeyhunterworld.com/img/icons/element/electro_35.webp"
+                    height="18"
+                  />
+                </td>
+              </tr>
+              <tr>
+                <td>Level</td>
+                <td>50</td>
+              </tr>
+              <tr>
+                <td>Friendship</td>
+                <td>1</td>
+              </tr>
+              <tr>
+                <td>Constellation</td>
+                <td>1</td>
+              </tr>
+              <tr>
+                <td>Artifacts<br />2 x Flower of Paradise Lost<br /></td>
+                <td>
+                  <img
+                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ue4a0g/05d76210c7aceb1f6bdc53ae7ada7a0f.png"
+                    height="18"
+                  />
+                  Ay-Khanoum's Myriad<br /><img
+                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ue4a0g/f67af425478cd55a9729cf060540c635.png"
+                    height="18"
+                  />
+                  Secret-Keeper's Magic Bottle<br />
+                </td>
+              </tr>
+              <tr>
+                <td>Outfits</td>
+                <td></td>
+              </tr>
+            </table>
+          </td>
+          <td valign="top">
+            <table>
+              <tr>
+                <td>Name</td>
+                <td>Dull Blade</td>
+              </tr>
+              <tr>
+                <td>Rarity</td>
+                <td>★</td>
+              </tr>
+              <tr>
+                <td>Level</td>
+                <td>1</td>
+              </tr>
+              <tr>
+                <td>Refinement</td>
+                <td>1</td>
               </tr>
             </table>
           </td>
