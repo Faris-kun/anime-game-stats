@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Nov 10, 2024 07:40 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Nov 10, 2024 19:12 +0700</u></h3>
 <br />
 <details align="center">
   <summary>:sleeping: Zenless Zone Zero Details</summary>
@@ -2526,7 +2526,7 @@
           />
           Primogems earned
         </td>
-        <td>420 (rate -92)</td>
+        <td>1015 (rate -81)</td>
       </tr>
       <tr>
         <td>
@@ -2536,14 +2536,14 @@
           />
           Mora earned
         </td>
-        <td>289522 (rate -85)</td>
+        <td>651199 (rate -67)</td>
       </tr>
       <tr>
         <td>Categories</td>
         <td>
-          Events: 250 (60%)<br />Daily Activity: 110 (27%)<br />Adventure: 20
-          (4%)<br />Spiral Abyss: 0 (0%)<br />Imaginarium Theater: 0 (0%)<br />Quests:
-          0 (0%)<br />Mail: 0 (0%)<br />Other: 40 (9%)<br />
+          Events: 670 (67%)<br />Daily Activity: 170 (17%)<br />Quests: 60
+          (6%)<br />Adventure: 35 (3%)<br />Mail: 20 (1%)<br />Spiral Abyss: 0
+          (0%)<br />Imaginarium Theater: 0 (0%)<br />Other: 60 (6%)<br />
         </td>
       </tr>
     </table>
@@ -2938,7 +2938,7 @@
               </tr>
               <tr>
                 <td>Friendship</td>
-                <td>8</td>
+                <td>9</td>
               </tr>
               <tr>
                 <td>Constellation</td>
@@ -3971,6 +3971,103 @@
       </table>
     </details>
     <details>
+      <summary><b>Kuki Shinobu</b></summary>
+      <br />
+      <table>
+        <tr>
+          <th><h3 align="center">Kuki Shinobu</h3></th>
+          <th><h3 align="center">Dull Blade</h3></th>
+        </tr>
+        <tr>
+          <td>
+            <p align="center">
+              <img
+                src="https://enka.network/ui/UI_AvatarIcon_Shinobu_Card.png"
+                heigt="250"
+              />
+            </p>
+          </td>
+          <td>
+            <p align="center">
+              <img
+                src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u9182g/0833f2f6e859eb43671f091f71b71e0d.png"
+                height="250"
+              />
+            </p>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <table>
+              <tr>
+                <td>Rarity</td>
+                <td>★★★★</td>
+              </tr>
+              <tr>
+                <td>Element</td>
+                <td>
+                  <img
+                    src="https://genshin.honeyhunterworld.com/img/icons/element/electro_35.webp"
+                    height="18"
+                  />
+                </td>
+              </tr>
+              <tr>
+                <td>Level</td>
+                <td>70</td>
+              </tr>
+              <tr>
+                <td>Friendship</td>
+                <td>1</td>
+              </tr>
+              <tr>
+                <td>Constellation</td>
+                <td>1</td>
+              </tr>
+              <tr>
+                <td>Artifacts<br />2 x Flower of Paradise Lost<br /></td>
+                <td>
+                  <img
+                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u9182g/36c2625e4163c4cb1d4b749719419558.png"
+                    height="18"
+                  />
+                  Ay-Khanoum's Myriad<br /><img
+                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u9182g/2d3918ca9c5f71a4ae169adeb123c686.png"
+                    height="18"
+                  />
+                  Secret-Keeper's Magic Bottle<br />
+                </td>
+              </tr>
+              <tr>
+                <td>Outfits</td>
+                <td></td>
+              </tr>
+            </table>
+          </td>
+          <td valign="top">
+            <table>
+              <tr>
+                <td>Name</td>
+                <td>Dull Blade</td>
+              </tr>
+              <tr>
+                <td>Rarity</td>
+                <td>★</td>
+              </tr>
+              <tr>
+                <td>Level</td>
+                <td>1</td>
+              </tr>
+              <tr>
+                <td>Refinement</td>
+                <td>1</td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+      </table>
+    </details>
+    <details>
       <summary><b>Barbara</b></summary>
       <br />
       <table>
@@ -4902,103 +4999,6 @@
               <tr>
                 <td>Refinement</td>
                 <td>2</td>
-              </tr>
-            </table>
-          </td>
-        </tr>
-      </table>
-    </details>
-    <details>
-      <summary><b>Kuki Shinobu</b></summary>
-      <br />
-      <table>
-        <tr>
-          <th><h3 align="center">Kuki Shinobu</h3></th>
-          <th><h3 align="center">Dull Blade</h3></th>
-        </tr>
-        <tr>
-          <td>
-            <p align="center">
-              <img
-                src="https://enka.network/ui/UI_AvatarIcon_Shinobu_Card.png"
-                heigt="250"
-              />
-            </p>
-          </td>
-          <td>
-            <p align="center">
-              <img
-                src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u9182g/0833f2f6e859eb43671f091f71b71e0d.png"
-                height="250"
-              />
-            </p>
-          </td>
-        </tr>
-        <tr>
-          <td>
-            <table>
-              <tr>
-                <td>Rarity</td>
-                <td>★★★★</td>
-              </tr>
-              <tr>
-                <td>Element</td>
-                <td>
-                  <img
-                    src="https://genshin.honeyhunterworld.com/img/icons/element/electro_35.webp"
-                    height="18"
-                  />
-                </td>
-              </tr>
-              <tr>
-                <td>Level</td>
-                <td>60</td>
-              </tr>
-              <tr>
-                <td>Friendship</td>
-                <td>1</td>
-              </tr>
-              <tr>
-                <td>Constellation</td>
-                <td>1</td>
-              </tr>
-              <tr>
-                <td>Artifacts<br />2 x Flower of Paradise Lost<br /></td>
-                <td>
-                  <img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u9182g/36c2625e4163c4cb1d4b749719419558.png"
-                    height="18"
-                  />
-                  Ay-Khanoum's Myriad<br /><img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u9182g/2d3918ca9c5f71a4ae169adeb123c686.png"
-                    height="18"
-                  />
-                  Secret-Keeper's Magic Bottle<br />
-                </td>
-              </tr>
-              <tr>
-                <td>Outfits</td>
-                <td></td>
-              </tr>
-            </table>
-          </td>
-          <td valign="top">
-            <table>
-              <tr>
-                <td>Name</td>
-                <td>Dull Blade</td>
-              </tr>
-              <tr>
-                <td>Rarity</td>
-                <td>★</td>
-              </tr>
-              <tr>
-                <td>Level</td>
-                <td>1</td>
-              </tr>
-              <tr>
-                <td>Refinement</td>
-                <td>1</td>
               </tr>
             </table>
           </td>
